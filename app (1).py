@@ -1,6 +1,7 @@
 import streamlit as st
 import joblib
 import numpy as np
+import pandas as pd
 
 # Set page configuration
 st.set_page_config(page_title="Delivery Delay Predictor", layout="centered")
